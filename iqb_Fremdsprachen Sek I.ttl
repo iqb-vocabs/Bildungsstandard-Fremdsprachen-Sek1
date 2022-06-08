@@ -4,7 +4,7 @@
 
 <esa/1/1.1/1.1.1> a skos:Concept ;
     skos:broader <esa/1/1.1> ;
-    skos:inScheme <> ; 
+    skos:inScheme <> ;
     skos:prefLabel "im Allgemeinen das Thema von Gesprächen, die in ihrer Gegenwart geführt werden, erkennen, wenn langsam und deutlich gesprochen wird (A2),"@de .
 
 <esa/1/1.1/1.1.2> a skos:Concept ;
@@ -1708,9 +1708,9 @@
 
 <> a skos:ConceptScheme ;
     dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
-    dct:description "Bildungsstandards für die erste Fremdsprache (Englisch/Französisch) für den Haupt- und Mittleren Schulabschluss" ;
+    dct:description "Bildungsstandards für die erste Fremdsprache (Englisch/Französisch) für den Haupt- und Mittleren Schulabschluss"@de ;
     dct:publisher "IQB" ;
-    dct:title "Fremdsprachen Sek I" ;
+    dct:title "Fremdsprachen Sek I"@de ;
     skos:hasTopConcept <esa>,
         <msae>,
         <msaf> .
