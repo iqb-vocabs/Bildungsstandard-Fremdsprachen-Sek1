@@ -6,7 +6,7 @@
     skos:broader <esa/45d0537f-4eb6-438a-ba8d-350e7392d900> ;
     skos:inScheme <> ;
     skos:notation "4.5.2" ;
-    skos:prefLabel "Präsentationstechniken zur  Darstellung von Arbeitsergebnissen einsetzen (Medien auswählen, Gliederungs- und Visualisierungstechniken anwenden)."@de .
+    skos:prefLabel "Präsentationstechniken zur Darstellung von Arbeitsergebnissen einsetzen (Medien auswählen, Gliederungs- und Visualisierungstechniken anwenden)."@de .
 
 <esa/10cc9c31-0772-48c7-8188-c8e809819394> a skos:Concept ;
     skos:broader <esa/bf6c25e9-98b9-4068-be13-07e48d5111f1> ;
